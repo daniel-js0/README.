@@ -29,5 +29,5 @@ I am a dedicated Software Engineer actively seeking opportunities in frontend De
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-js0&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="danieljs0's GitHub stats" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-js0&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="danieljs0's GitHub stats" /> 
 
