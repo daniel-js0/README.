@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-olagbegi-ba83a1243) [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/iamdamiburna)
 
 
-I am a dedicated Software Engineer actively seeking opportunities in frontend Development Roles. My unwavering passion revolves around the art of knowledge sharing, with a goal to ignite inspiration in others. My expertise spans various areas, including documentation, web engineering,  and more. I create technical content, develop useful  [open-source projects](https://github.com/daniel-js0), speak at meetups and conferences, and foster technical communities.
+I am a dedicated Front-End Web Developer, actively seeking opportunities in frontend Development Roles. My unwavering passion revolves around the art of knowledge sharing, with a goal to ignite inspiration in others. My expertise spans various areas, including documentation, web engineering,  and more. I create technical content, develop useful  [open-source projects](https://github.com/daniel-js0), speak at meetups and conferences, and foster technical communities.
 
 
 **Here's a quick summary about me**:
